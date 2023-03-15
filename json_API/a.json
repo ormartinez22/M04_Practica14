@@ -1,0 +1,1 @@
+{"cars": [{"matricula": "44553R", "color": "blau", "pes": 800, "marca": "Ford"}, {"matricula": "55332E", "color": "groc", "pes": 900, "marca": "Fiat"}], "animals": [{"nom": "gat", "color": 4, "pes": "mamifer", "marca": 0.3}, {"nom": "colibri", "color": 1, "pes": "ocell", "marca": 0.1}]}
